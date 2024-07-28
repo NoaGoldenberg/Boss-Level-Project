@@ -1,0 +1,11 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/noagoldenberg/Desktop/year 2/semester B/פיתוח משחקים מתקדם/Boss-Level/noa-goldenberg-boss-level/Build WebGL/build23.41;/Users/noagoldenberg/Desktop/year 2/semester B/פיתוח משחקים מתקדם/Boss-Level/noa-goldenberg-boss-level/Build WebGL/build23.25;/Users/noagoldenberg/Desktop/year 2/semester B/פיתוח משחקים מתקדם/Boss-Level/noa-goldenberg-boss-level/Build WebGL/build23.09;;;;;;;\"}"
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+participant Loader
+participant LoaderUI
+participant CoreManagers
+participant CurrencyManager
+
+participant GameLogic
+participant HealthManager
+participant HiveManger
+participant BossManager
+participant BossAttacks
+participant SharkAttack
+participant JellyfishAttack
+participant ElectricityAttack
+
+entity Scene
+
+Loader -> LoaderUI: Update
+Loader -> CoreManagers: Initialize
+CoreManagers -> CurrencyManager: Initialize
+
+Loader -> GameLogic: Initialize
+GameLogic -> ScoreManager: Initialize
+GameLogic -> HiveManger: Initialize
+GameLogic -> BossManager: Initialize
+GameLogic -> BossPhases: Update
+BossPhases -> Phases1: Initialize
+BossPhases -> Phases2: Initialize
+BossPhases -> Phases3: Initialize
+
+
+@enduml

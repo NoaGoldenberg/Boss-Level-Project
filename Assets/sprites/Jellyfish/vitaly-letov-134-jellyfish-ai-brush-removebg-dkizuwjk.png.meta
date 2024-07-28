@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 79f6b7b0dcdde403898d92ea6da5de0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff14e1dc45c14b38a4bd17f0a10af21
+      internalID: -452768344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8782f808e1ef447f78c1182a39d3a1e9
+      internalID: -1913122522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2fbe676dc34a5dafd3bb5bca3677c
+      internalID: -2105504307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_3
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8badb8429780c42d7903b12217266d71
+      internalID: 2067612675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c03a7a6223740b8b87aa04bcbe365c
+      internalID: 1221092621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_5
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03d41cf3be04090a95a0b2dbb562ca
+      internalID: 1345671440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_6
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72739c858b994d1eb3cef299395baf1
+      internalID: 2039967452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_7
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1457
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5ece3a7792d4d0d987420721866cf8
+      internalID: -753710937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0024b8bc03ae40f5ad8bdf5939bdea9
+      internalID: 1371848141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de524309fc1a344b19f7db3713392915
+      internalID: 651140386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813d32e97bec43c5a466acdd1cecc4e
+      internalID: 1340821289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ec7011ca484779882dea1fb147875
+      internalID: -1199661153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_12
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d89f3ef0094ae8a5a8f08c1e0dadb
+      internalID: -1490515352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_13
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69bb0afecbca40789072fa0c2bc4375
+      internalID: -569834595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_14
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6052a08d5c254a30a2a2d46c335ff9d
+      internalID: 257461535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_15
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 994
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af36ea668fb4c31871fc088cc7220b
+      internalID: -1052696520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c9fb74d2a04c98ac177b7883a5333
+      internalID: 66478953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb3168953c647c0abb2173ba6b3dea
+      internalID: -1231173427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023126b3a573c45e593a654e72678003
+      internalID: 1106090844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_19
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336448655f0644c10958f0fc69f6b08a
+      internalID: -207430796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_20
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f1910cf9c34920aa35248d7877b1d
+      internalID: -110055764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_21
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044526aa956fc4522b964b935c1d875a
+      internalID: 980781902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_22
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ac965dbbc0483895d84e6b0099cff
+      internalID: -944942869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_23
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 531
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40943f3857c4d61b264bf555cb74c0
+      internalID: 375435807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80300b964474c4bffa63c7e56479f82d
+      internalID: 306478769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155cd3b7a940943238e5715548574eeb
+      internalID: 681342972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90057d58061164e9a90b578d14092f41
+      internalID: 1660059342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_27
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607fb6a2c9726410f8cac0977cdb61c9
+      internalID: 179229862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_28
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30484f33857a643ff80e871f1325434b
+      internalID: 1822146301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_29
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0666ef0948f433bb38b3e92e49f043
+      internalID: 912878525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_30
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0344bebfe02d64373a9415ac224aaf31
+      internalID: 349277091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_31
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 68
+        width: 239
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b799f69f274b058b9b657e207ab11
+      internalID: -2116701669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_0: -452768344
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_1: -1913122522
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_10: 1340821289
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_11: -1199661153
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_12: -1490515352
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_13: -569834595
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_14: 257461535
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_15: -1052696520
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_16: 66478953
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_17: -1231173427
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_18: 1106090844
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_19: -207430796
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_2: -2105504307
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_20: -110055764
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_21: 980781902
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_22: -944942869
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_23: 375435807
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_24: 306478769
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_25: 681342972
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_26: 1660059342
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_27: 179229862
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_28: 1822146301
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_29: 912878525
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_3: 2067612675
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_30: 349277091
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_31: -2116701669
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_4: 1221092621
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_5: 1345671440
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_6: 2039967452
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_7: -753710937
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_8: 1371848141
+      vitaly-letov-134-jellyfish-ai-brush-removebg-dkizuwjk_9: 651140386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

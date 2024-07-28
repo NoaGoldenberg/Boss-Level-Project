@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 8789f03af989349b9bac3c233e7108c9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2037
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34503b432a6a94e26a348925c99b95f1
+      internalID: -2009021081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2037
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7789eb99324842d292485d1a8204dd6
+      internalID: 1795639334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 2037
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573ca1a5a9064ca1ae1a089325e9127
+      internalID: 1116221830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 2037
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd11db2be4f9402ebb89bf444743484
+      internalID: 1537772128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1358
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe2d25775334790b88f8e6b52f900e
+      internalID: -1140229286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1358
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444192d6697a44ebb01f886631390a9
+      internalID: 1352727519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1358
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c4af145f4d74b33b6858d426cd271b
+      internalID: -400118108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1358
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f8f1e3d3374bc9838fc4ae674d5a7
+      internalID: 616983327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4873b9c292934c6cb60fe5d8247571b
+      internalID: -632950880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_9
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 679
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884fa2ce40b5d47699c7ea60b79dc666
+      internalID: -1107769382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_10
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 679
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672ce0bc4bd549a586f7e31263c794c
+      internalID: 226102612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_11
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 679
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664524f1df9ba4799a9d8989c640902f
+      internalID: 558115946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66df4121ae174867a3ab4bbe8321ce7
+      internalID: -2044895630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_13
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c65e391721b4876a81c7a5272dc04d
+      internalID: 1464707675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_14
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 0
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212cd9b94f1d418c8b422fc2c4ffcb0
+      internalID: -1642684087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_15
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 0
+        width: 1238
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bfba1fc373f46d68c165767f1c66c0
+      internalID: 462846397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_0: -2009021081
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_1: 1795639334
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_10: 226102612
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_11: 558115946
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_12: -2044895630
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_13: 1464707675
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_14: -1642684087
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_15: 462846397
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_2: 1116221830
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_3: 1537772128
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_4: -1140229286
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_5: 1352727519
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_6: -400118108
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_7: 616983327
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_8: -632950880
+      __black_suited-diver_swiming-with-gun_1238px-by-679px-per-frame_9: -1107769382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

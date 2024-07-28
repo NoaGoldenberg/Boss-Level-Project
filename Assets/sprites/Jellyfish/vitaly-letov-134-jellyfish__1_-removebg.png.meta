@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 0d6dcd8d4c6874914a1f2f506f89b348
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1633
+        width: 17
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02636a4f7cfc4e5098f73d1e9a1928e
+      internalID: -1921537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1453
+        width: 172
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0030d1368d904f3a83f26a408953046
+      internalID: 636590223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1422
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42c5cf44f174bc487fe8e1849b6598
+      internalID: -182675903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1453
+        width: 176
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcf1ba1448d4282b600102c08748fb
+      internalID: -1683514405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1636
+        width: 16
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16e4e3b9e3f54938b3077fe081e01c0
+      internalID: -1232299365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1455
+        width: 179
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008568f6efa964fed884b33e9ce4eeee
+      internalID: 1550694950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1677
+        width: 8
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e78c5189ca1a4a87ba028f8775d8c9c
+      internalID: 1569232004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1459
+        width: 180
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b9de69759e54c0c83f7f702735c634
+      internalID: -573754160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1463
+        width: 186
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c61ca5120d4ee1ba83dc34b4a61c6
+      internalID: -2091932289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1698
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc85d6122faf4443bcca73eb6fbc75a
+      internalID: -2010366500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1655
+        width: 16
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb6fb3bc9b244aeb4c611292095a89
+      internalID: -1816999376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1469
+        width: 177
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7a5d055af9b42059e9cce4edf36695
+      internalID: 2094758149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1474
+        width: 180
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce30b715a10b64bf2acb831072419c7c
+      internalID: 1883591355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1476
+        width: 181
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1920854ecea4b8a9b65d5279839010
+      internalID: -2144877319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1732
+        width: 5
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0294853a1c8454fc6b0de5fc94183306
+      internalID: 1688526550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1638
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89af3aef7caa437aa2909de6da3f19a
+      internalID: 146835487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 998
+        width: 184
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c295efb73b0b46619b346d2ea1d503b
+      internalID: 794590669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 999
+        width: 183
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65108814446d84ebe9767c8269bf862f
+      internalID: 1751122122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1239
+        width: 6
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71419f058ccb54a3685aa63ca101bc86
+      internalID: 837823127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1000
+        width: 181
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ac11fee87634b6c9d90019e8776985
+      internalID: 1751867596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1001
+        width: 180
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236d719af6404b7693fc7012a7731b4
+      internalID: 910014848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1003
+        width: 178
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0157d75b6914d1e96e3c9e19c6a097
+      internalID: 1803143847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1003
+        width: 178
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18d4a3e6cd84ebcb2175b760704f6f
+      internalID: 1802613634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1004
+        width: 177
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bee5cc78ceb49bfbb4bea3039661d0
+      internalID: 1089430918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1006
+        width: 177
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4148e603ca9124ba8a92311d6affc090
+      internalID: 107850502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 527
+        width: 170
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b1f0cea4e049f891d523725ef89bc
+      internalID: -1785099617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 528
+        width: 169
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6d04f80bc54062be36b5cd7ce1b80
+      internalID: 2045257930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 527
+        width: 162
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df96b2346ced4f2dbcc13acead74c18
+      internalID: 56196530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 527
+        width: 158
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b146debf2cb0b4ca2a53716dbb28efae
+      internalID: 842654372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 524
+        width: 153
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d7c37194cd844d7b2a272697814d7f
+      internalID: -2028735223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 522
+        width: 151
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b5029e83ca40daacdf6338749e5a2
+      internalID: -372976911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 521
+        width: 150
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62789d3b90b54bf7aa63d4d9493e742
+      internalID: 2064734894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 521
+        width: 150
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075f22318bd0416a9a28fbc38969a61
+      internalID: -978865429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe705a2e587b4b46911517aa1d9ad07
+      internalID: 830787471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 147
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a172f59649647f3bc69bb96ac7467d
+      internalID: 2045178077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a2b28d9437543eebe3efec24e1ab60
+      internalID: -552244580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 40
+        width: 143
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5fbaf295844a05895cdab48d58aaa
+      internalID: 453364018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 240
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba4c4b3e18fa43a5888846bf289b2ff
+      internalID: -941903476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 24
+        width: 149
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755e92a93afb246e0ad9d4feed1901da
+      internalID: -327454794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 18
+        width: 160
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86e9d19bca5b4a6e837632da360f9a7
+      internalID: 421074757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 222
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a526b066366f94e29866c2ece2f6cd3a
+      internalID: -940270198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 14
+        width: 158
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3016471119b405b9ebe350eace7545
+      internalID: -960999307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 214
+        width: 19
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f6b6442cc94188aa3706cfcb762d0
+      internalID: -1634360118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 14
+        width: 162
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c854c1eb63234c129817166fc5f622a
+      internalID: 1297977721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 201
+        width: 19
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff42d836b5d84ab39439d65b6dec78c
+      internalID: -1123806900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 12
+        width: 167
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124f91d9bfea34f74b5e620be9e03efb
+      internalID: -1236763652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 208
+        width: 15
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a485367300da6496cb00cbc13ad2bbdd
+      internalID: -551709555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitaly-letov-134-jellyfish__1_-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 11
+        width: 171
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf6330966bad4cbbb829d2d9c1ce185
+      internalID: -833195622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vitaly-letov-134-jellyfish__1_-removebg_0: -1921537
+      vitaly-letov-134-jellyfish__1_-removebg_1: 636590223
+      vitaly-letov-134-jellyfish__1_-removebg_10: -1816999376
+      vitaly-letov-134-jellyfish__1_-removebg_11: 2094758149
+      vitaly-letov-134-jellyfish__1_-removebg_12: 1883591355
+      vitaly-letov-134-jellyfish__1_-removebg_13: -2144877319
+      vitaly-letov-134-jellyfish__1_-removebg_14: 1688526550
+      vitaly-letov-134-jellyfish__1_-removebg_15: 146835487
+      vitaly-letov-134-jellyfish__1_-removebg_16: 794590669
+      vitaly-letov-134-jellyfish__1_-removebg_17: 1751122122
+      vitaly-letov-134-jellyfish__1_-removebg_18: 837823127
+      vitaly-letov-134-jellyfish__1_-removebg_19: 1751867596
+      vitaly-letov-134-jellyfish__1_-removebg_2: -182675903
+      vitaly-letov-134-jellyfish__1_-removebg_20: 910014848
+      vitaly-letov-134-jellyfish__1_-removebg_21: 1803143847
+      vitaly-letov-134-jellyfish__1_-removebg_22: 1802613634
+      vitaly-letov-134-jellyfish__1_-removebg_23: 1089430918
+      vitaly-letov-134-jellyfish__1_-removebg_24: 107850502
+      vitaly-letov-134-jellyfish__1_-removebg_25: -1785099617
+      vitaly-letov-134-jellyfish__1_-removebg_26: 2045257930
+      vitaly-letov-134-jellyfish__1_-removebg_27: 56196530
+      vitaly-letov-134-jellyfish__1_-removebg_28: 842654372
+      vitaly-letov-134-jellyfish__1_-removebg_29: -2028735223
+      vitaly-letov-134-jellyfish__1_-removebg_3: -1683514405
+      vitaly-letov-134-jellyfish__1_-removebg_30: -372976911
+      vitaly-letov-134-jellyfish__1_-removebg_31: 2064734894
+      vitaly-letov-134-jellyfish__1_-removebg_32: -978865429
+      vitaly-letov-134-jellyfish__1_-removebg_33: 830787471
+      vitaly-letov-134-jellyfish__1_-removebg_34: 2045178077
+      vitaly-letov-134-jellyfish__1_-removebg_35: -552244580
+      vitaly-letov-134-jellyfish__1_-removebg_36: 453364018
+      vitaly-letov-134-jellyfish__1_-removebg_37: -941903476
+      vitaly-letov-134-jellyfish__1_-removebg_38: -327454794
+      vitaly-letov-134-jellyfish__1_-removebg_39: 421074757
+      vitaly-letov-134-jellyfish__1_-removebg_4: -1232299365
+      vitaly-letov-134-jellyfish__1_-removebg_40: -940270198
+      vitaly-letov-134-jellyfish__1_-removebg_41: -960999307
+      vitaly-letov-134-jellyfish__1_-removebg_42: -1634360118
+      vitaly-letov-134-jellyfish__1_-removebg_43: 1297977721
+      vitaly-letov-134-jellyfish__1_-removebg_44: -1123806900
+      vitaly-letov-134-jellyfish__1_-removebg_45: -1236763652
+      vitaly-letov-134-jellyfish__1_-removebg_46: -551709555
+      vitaly-letov-134-jellyfish__1_-removebg_47: -833195622
+      vitaly-letov-134-jellyfish__1_-removebg_5: 1550694950
+      vitaly-letov-134-jellyfish__1_-removebg_6: 1569232004
+      vitaly-letov-134-jellyfish__1_-removebg_7: -573754160
+      vitaly-letov-134-jellyfish__1_-removebg_8: -2091932289
+      vitaly-letov-134-jellyfish__1_-removebg_9: -2010366500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
