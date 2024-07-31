@@ -33,7 +33,7 @@ The octopus defeats the jellyfish boss by strategically defending against attack
 
 
 
-**PlayGame Video** : https://youtu.be/WjEelKfkEZQ
-**Itch** : https://noagoldenberg.itch.io/octopus-vs-jellyfish-boss-level
-**CodeReview Video** :https://youtu.be/jYlu_Vgs9yQ
+- **PlayGame Video** : https://youtu.be/WjEelKfkEZQ
+- **Itch** : https://noagoldenberg.itch.io/octopus-vs-jellyfish-boss-level
+- **CodeReview Video** :https://youtu.be/jYlu_Vgs9yQ
 
