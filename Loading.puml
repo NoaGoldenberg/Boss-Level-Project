@@ -1,0 +1,25 @@
+﻿@startuml
+'https://plantuml.com/sequence-diagram
+
+participant Loader
+participant LoaderUI
+participant CoreManagers
+participant CurrencyManager
+
+participant GameLogic
+participant ScoreManager
+participant WaveManger
+participant BossManager
+
+entity Scene
+
+Loader -> LoaderUI: Update
+Loader -> CoreManagers: Initialize
+CoreManagers -> CurrencyManager: Initialize
+
+Loader -> GameLogic: Initialize
+GameLogic -> ScoreManager: Initialize
+GameLogic -> WaveManger: Initialize
+GameLogic -> BossManager: Initialize
+
+@enduml

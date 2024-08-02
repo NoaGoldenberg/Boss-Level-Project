@@ -1,0 +1,23 @@
+﻿@startuml
+'https://plantuml.com/sequence-diagram
+
+participant GameLoader
+participant LoaderUI
+participant CoreManagers
+
+participant GameManager
+participant ScoreManager
+participant UIManager
+participant BossManager
+
+entity Scene
+
+Loader -> LoaderUI: Update
+Loader -> CoreManagers: Initialize
+
+Loader -> GameLogic: Initialize
+GameLogic -> ScoreManager: Initialize
+GameLogic -> UIManager: Setup UI
+GameLogic -> BossManager: Initialize - Spawn Boss
+@enduml
+
